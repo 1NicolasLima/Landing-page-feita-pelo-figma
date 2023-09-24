@@ -1,0 +1,9 @@
+.logo{
+    color: white;
+    background: url(../images/milionario-com-o-youtube.png), rgb(0, 0, 0) 50% / cover no-repeat;
+    margin: 0 auto;
+    width: 200px;
+    height: 49.307px;
+    flex-shrink: 0;
+
+}
