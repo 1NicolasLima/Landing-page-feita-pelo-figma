@@ -7,3 +7,13 @@
     flex-shrink: 0;
 
 }
+
+.modulos{
+    margin: 60px auto;
+    display: flex;
+    justify-content: center;
+}
+
+.modulo1,.modulo2,.modulo3,.modulo4{
+    margin-right: 62px;
+}
