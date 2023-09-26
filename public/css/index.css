@@ -17,3 +17,106 @@
 .modulo1,.modulo2,.modulo3,.modulo4{
     margin-right: 62px;
 }
+
+.container-bonus1{
+    width: 1228px;
+    height: 574px;
+    margin-top: 94px;
+    display: flex;
+}
+
+.bonus1{
+    width: 442px;
+    height: 572px;
+    flex-shrink: 0;
+    border-radius: 24px;
+    border: 3px solid #2E2E2E;
+    background: #000;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    margin-left: 200px;
+    margin-right: 47px;
+}
+
+.bonus2{
+    width: 442px;
+    height: 572px;
+    flex-shrink: 0;
+    border-radius: 24px;
+    border: 3px solid #2E2E2E;
+    background: #000;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    margin-right: 47px;
+}
+
+.bonus3{
+    width: 442px;
+    height: 572px;
+    flex-shrink: 0;
+    border-radius: 24px;
+    border: 3px solid #2E2E2E;
+    background: #000;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.dentro-bonus-imagem{
+    margin: 15px 42px 0px 42px;
+}
+
+.texto-bonus h3{
+    color: #E00;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 31px; /* 193.75% */
+    letter-spacing: 0.88px;
+    font-weight: bold;
+}
+
+.texto-bonus h2{
+    color: #FFF;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Poppins, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20.5px; /* 102.5% */
+    width: 332px;
+    margin: 0 auto;
+    font-weight: bold;
+}
+
+.texto-bonus p {
+    color: #FFF;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Poppins, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20.5px; /* 146.429% */
+    width: 332px;
+    margin: 0 auto;
+    margin-top: 12px;
+}
+
+.preco1{
+    width: 115px;
+    height: 43px;
+    flex-shrink: 0;
+    color: #E00;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Poppins, sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 31px; /* 193.75% */
+    letter-spacing: 0.88px;
+    margin: 0 auto;
+    font-weight: bold;
+    margin-top: 15px;
+}
